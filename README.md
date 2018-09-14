@@ -7,7 +7,7 @@ My first repository on GitHub
 
 ### App Walk-though
 <img src="
-      HelloWorld/changetextcolor1.gif
+      https://github.com/Rheabh1999/HelloWorld/blob/master/changetextcolor1.gif
     " width=200><br>
 
 ### Required User Stories
