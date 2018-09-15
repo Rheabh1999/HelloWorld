@@ -3,7 +3,7 @@ My first repository on GitHub
 ## HelloWorld
 
 ### App Description
- Simple app that displays "Hello from Rhea", and changes text color when button is clicked.
+ Simple app that displays "Hello from Rhea",changes text color, background color, text, when buttons are clicked. User can also tap on the background view to reset all views to default settings.
 
 ### App Walk-though
 ![Basic Screen GIF](https://raw.githubusercontent.com/Rheabh1999/HelloWorld/master/changetextcolor.gif) 
