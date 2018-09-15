@@ -6,7 +6,7 @@ My first repository on GitHub
  Simple app that displays "Hello from Rhea", and changes text color when button is clicked.
 
 ### App Walk-though
-![Basic Screen GIF](https://raw.githubusercontent.com/Rheabh1999/HelloWorld/master/changetextcolor1.gif) 
+![Basic Screen GIF](https://raw.githubusercontent.com/Rheabh1999/HelloWorld/master/changetextcolor.gif) 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
